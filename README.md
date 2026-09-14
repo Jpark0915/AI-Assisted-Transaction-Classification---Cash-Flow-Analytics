@@ -114,7 +114,7 @@ The classification workflow was designed to use rules first and Generative AI on
 
 AI-generated classifications were not automatically accepted. Each suggestion was reviewed and verified before being incorporated into the final dataset.
 
-![AI Classification Review](screenshots/ai_review.png)
+![AI Classification Review](Data Projects/excel_dashboard.png)
 
 This approach helped balance automation with data quality by using deterministic rules for straightforward transactions while reserving AI assistance for more ambiguous cases.
 
