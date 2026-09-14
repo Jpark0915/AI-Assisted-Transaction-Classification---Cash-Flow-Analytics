@@ -94,7 +94,7 @@ This demonstrates how AI can support data classification while human validation 
 
 
 
-![Transaction Analytics Dashboard](Data Projects/excel_dashboard.png)
+![Transaction Analytics Dashboard](excel_dashboard.png)
 
 The dashboard summarizes spending across categories, merchants, and monthly trends while providing high-level spending and income KPIs.
 
